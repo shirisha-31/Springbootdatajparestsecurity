@@ -1,5 +1,5 @@
-Secure Employee Management REST API
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Secure Employee Management REST API
+
 
 Spring Boot + Data JPA + MySQL + Spring Security
 
@@ -173,11 +173,6 @@ DELETE /api/delete/{id}
 <img width="1439" height="835" alt="image" src="https://github.com/user-attachments/assets/184e8a27-05b9-4b87-8d7c-ca6cdf69bdbe" />
 
 
-# 🔐 Secure Employee Management REST API
-
-A fully secured RESTful Employee Management API built using Spring Boot and modern backend technologies.
-
----
 
 ## 🛠 Technologies Used
 
@@ -239,8 +234,11 @@ Password: Generated password from console
 This project demonstrates:
 
 »Spring Boot REST API development
+
 »Secure endpoint configuration
+
 »MySQL database integration
+
 »Complete CRUD functionality
 
 
